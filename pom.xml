@@ -71,4 +71,45 @@
 			</plugin>
 		</plugins>
 	</reporting>
+	<description>Connect Four Maven Sample Project</description>
+	<organization>
+		<name>maventraining</name>
+		<url>http://maven.apache.org</url>
+	</organization>
+	<issueManagement>
+		<system>Jira</system>
+		<url>http://127.0.0.1:8080/jira</url>
+	</issueManagement>
+	<ciManagement>
+		<system>Jenkins</system>
+		<url>http://127.0.0.1:8080/jenkins</url>
+	</ciManagement>
+	<developers>
+		<developer>
+			<id>1</id>
+			<name>Sree</name>
+			<email>sree.muppvarapu@gmail.com</email>
+		</developer>
+		<developer>
+			<id>2</id>
+			<name>user2</name>
+			<email>user2@gmail.com</email>
+		</developer>
+	</developers>
+	<contributors>
+		<contributor>
+			<name>Sree</name>
+			<email>sree.muppvarapu@gmail.com</email>
+		</contributor>
+		<contributor>
+			<name>user2</name>
+			<email>user2@gmail.com</email>
+		</contributor>
+	</contributors>
+	<mailingLists>
+		<mailingList>
+			<name>Sree</name>
+			<subscribe>true</subscribe>
+		</mailingList>
+	</mailingLists>
 </project>
