@@ -18,7 +18,7 @@
 		<url>https://github.com/sreechoudary/ConnectFourMaven.git</url>
 		<connection>scm:git:https://github.com/sreechoudary/ConnectFourMaven.git</connection>
 		<developerConnection>scm:git:https://github.com/sreechoudary/ConnectFourMaven.git</developerConnection>
-		<tag>ConnectFourMaven-1.0</tag>
+		<tag>ConnectFourMaven-1.2</tag>
 	</scm>
 	<build>
 		<plugins>
