@@ -3,7 +3,7 @@
 	<groupId>maventraining</groupId>
 	<artifactId>ConnectFourMaven</artifactId>
 	<packaging>jar</packaging>
-	<version>1.3-SNAPSHOT</version>
+	<version>1.4-SNAPSHOT</version>
 	<name>ConnectFourMaven</name>
 	<url>http://maven.apache.org</url>
 	<dependencies>
@@ -18,7 +18,7 @@
 		<url>https://github.com/sreechoudary/ConnectFourMaven.git</url>
 		<connection>scm:git:https://github.com/sreechoudary/ConnectFourMaven.git</connection>
 		<developerConnection>scm:git:https://github.com/sreechoudary/ConnectFourMaven.git</developerConnection>
-		<tag>ConnectFourMaven-1.2</tag>
+		<tag>ConnectFourMaven-1.0</tag>
 	</scm>
 	<build>
 		<plugins>
