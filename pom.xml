@@ -27,9 +27,9 @@
 		</dependency>
 	</dependencies>
 	<scm>
-		<url>https://github.com/sreechoudary/ConnectFourMaven.git</url>
-		<connection>scm:git:https://github.com/sreechoudary/ConnectFourMaven.git</connection>
-		<developerConnection>scm:git:https://github.com/sreechoudary/ConnectFourMaven.git</developerConnection>
+		<url>https://github.com/vishnutheja88/ConnectFourMaven.git</url>
+		<connection>scm:git:https://github.com/vishnutheja88/ConnectFourMaven.git</connection>
+		<developerConnection>scm:git:https://github.com/vishnutheja88/ConnectFourMaven.git</developerConnection>
 		<tag>ConnectFourMaven-1.0</tag>
 	</scm>
 	<build>
@@ -109,19 +109,19 @@
 	<developers>
 		<developer>
 			<id>1</id>
-			<name>Sree</name>
-			<email>sree.muppvarapu@gmail.com</email>
+			<name>vishnu</name>
+			<email>vishnutheja88@gmail.com</email>
 		</developer>
 		<developer>
 			<id>2</id>
-			<name>user2</name>
+			<name>theja</name>
 			<email>user2@gmail.com</email>
 		</developer>
 	</developers>
 	<contributors>
 		<contributor>
-			<name>Sree</name>
-			<email>sree.muppvarapu@gmail.com</email>
+			<name>vishnu</name>
+			<email>vishnutheja88@gmail.com</email>
 		</contributor>
 		<contributor>
 			<name>user2</name>
@@ -130,7 +130,7 @@
 	</contributors>
 	<mailingLists>
 		<mailingList>
-			<name>Sree</name>
+			<name>vishnu</name>
 			<subscribe>true</subscribe>
 		</mailingList>
 	</mailingLists>
@@ -138,12 +138,12 @@
 		<snapshotRepository>
 			<id>snapshots</id>
 			<name>ip-172-31-3-145-snapshots</name>
-			<url>http://54.153.115.90:8080/artifactory/training-snapshot</url>
+			<url>http://localhost:8080/artifactory/training-snapshot</url>
 		</snapshotRepository>
 		<repository>
 			<id>central</id>
 			<name>ip-172-31-3-145-releases</name>
-			<url>http://54.153.115.90:8080/artifactory/training-release</url>
+			<url>http://localhost:8080/artifactory/training-release</url>
 		</repository>
 	</distributionManagement>
 </project>
